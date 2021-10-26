@@ -1,0 +1,570 @@
+{
+  "2.33": [
+    {
+      "drv": "/nix/store/ga19cijx9zl5ycq7al2mg12mzn4sxrz1-glibc-2.33-50.drv",
+      "date": "2021-10-25 00:31:07 -0700",
+      "rev": "e674a4637730906d080924819870ea76d9e96896",
+      "depth": 0
+    },
+    {
+      "drv": "/nix/store/4aihxwzxf93x2rqyh1knwam2qiz0y8f5-glibc-2.33-50.drv",
+      "date": "2021-10-05 14:55:46 +0300",
+      "rev": "6c1a50cf57b25cea9bc97956b9df3f3bf3f2709e",
+      "depth": 1645
+    },
+    {
+      "drv": "/nix/store/y96sx5l90bhv54ikrh0d3wgzsym6wv8l-glibc-2.33-49.drv",
+      "date": "2021-09-24 12:00:56 +0100",
+      "rev": "22e82f4850407cb16730848cb53a9ffb6205eef8",
+      "depth": 2651
+    },
+    {
+      "drv": "/nix/store/56salrjfnszpv909b455f3r29shx3rpg-glibc-2.33-47.drv",
+      "date": "2021-09-15 08:28:15 +0200",
+      "rev": "42e33503ecb66de8ca6e3d39bd828a2c8f58a23c",
+      "depth": 3651
+    },
+    {
+      "drv": "/nix/store/vp294z1mkm50knyc6frix60fgvd6xn02-glibc-2.33-47.drv",
+      "date": "2021-08-18 13:18:00 -0700",
+      "rev": "bbc3fbf67cdd49f91002cff05d4ce31fdd57662b",
+      "depth": 6075
+    },
+    {
+      "drv": "/nix/store/yw2fk1bk2nc6jrxk1k1y1zc7jag2p6j3-glibc-2.33-47.drv",
+      "date": "2021-07-29 08:42:30 +0000",
+      "rev": "a5257a7f72c36bd4d69c9ef39068bfa54817ae41",
+      "depth": 8149
+    }
+  ],
+  "2.32": [
+    {
+      "drv": "/nix/store/gxaiz7savqzdv2vpnxf0q2b5mjwmk4s0-glibc-2.32-48.drv",
+      "date": "2021-07-20 13:07:35 -0700",
+      "rev": "1916bd87173c3af6efa077da53180a16f3697139",
+      "depth": 8956
+    },
+    {
+      "drv": "/nix/store/kad5krjb350l3w96rzb8xrr95cm6pl8r-glibc-2.32-48.drv",
+      "date": "2021-07-05 21:11:51 +0200",
+      "rev": "ff78b89b376e6faeaf050c56f0a7700503f92340",
+      "depth": 10030
+    },
+    {
+      "drv": "/nix/store/54g21lwyafm1gl802rwrxsmf445hsb52-glibc-2.32-46.drv",
+      "date": "2021-06-26 14:44:51 +0200",
+      "rev": "69015ede61fc27b7efa2a2f6241286a0b7e64720",
+      "depth": 10794
+    },
+    {
+      "drv": "/nix/store/pbqgkwy741jcpafm3ld35xf4q2vlf6xn-glibc-2.32-46.drv",
+      "date": "2021-06-16 17:42:03 -0700",
+      "rev": "f5b2b2f1dbbfc1d2c6c97436ded244429ee09de7",
+      "depth": 11512
+    },
+    {
+      "drv": "/nix/store/sp5yjh72kya48ajh32bibyjdfai9hy83-glibc-2.32-46.drv",
+      "date": "2021-05-22 20:40:41 -0500",
+      "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+      "depth": 13576
+    },
+    {
+      "drv": "/nix/store/iahxjhbmnzfa2hbqn9y82x3r4dsrssqz-glibc-2.32-40.drv",
+      "date": "2021-05-16 15:57:20 -0300",
+      "rev": "b3a8cab594677f23f71ff99e671bcd45ff0274a1",
+      "depth": 14393
+    },
+    {
+      "drv": "/nix/store/9x3m88gfh3c157m9nak5k1f02fvxp6k4-glibc-2.32-40.drv",
+      "date": "2021-04-25 12:53:25 +0100",
+      "rev": "7217b9e3c4e00f374b3d6b8b93390aa6ea177d39",
+      "depth": 16371
+    },
+    {
+      "drv": "/nix/store/a7afj91dbbkzddxkmx9fpsw9yf5jx527-glibc-2.32-39.drv",
+      "date": "2021-04-09 18:05:51 +0200",
+      "rev": "842f900e73c7ce985218cc4f455e34d1d56475c1",
+      "depth": 17606
+    },
+    {
+      "drv": "/nix/store/bsmz3h9w0kpxwkks9fig9ws15nrn0j4k-glibc-2.32-37.drv",
+      "date": "2021-03-31 11:42:27 +0200",
+      "rev": "779ef0a43dca70763e23187b476db5e1c1326c54",
+      "depth": 18381
+    },
+    {
+      "drv": "/nix/store/4kdbk3spya1i4ipj284yyl5a4ndh00nv-glibc-2.32-37.drv",
+      "date": "2021-03-19 18:12:44 +0100",
+      "rev": "fe7df3f3ff76fca22c4eefa0ce53eb9f6b1f64a2",
+      "depth": 19427
+    },
+    {
+      "drv": "/nix/store/rrbwx5df1h4zj40npxj172iipy9vfhx6-glibc-2.32-35.drv",
+      "date": "2021-02-26 09:49:08 +0000",
+      "rev": "1d467840d268979df85d8301dadeea45f96afa98",
+      "depth": 21218
+    },
+    {
+      "drv": "/nix/store/x9agc8vxdnmai3q41gsgf732fc5v0xdd-glibc-2.32-35.drv",
+      "date": "2021-02-17 21:08:42 -1000",
+      "rev": "4ef6da455e926b87d1923c324306e9dc1da8e371",
+      "depth": 21988
+    },
+    {
+      "drv": "/nix/store/gnkq6z6lzi3xrf8qgm9qm53hvb57336y-glibc-2.32-25.drv",
+      "date": "2021-01-29 14:03:26 +0200",
+      "rev": "e32327fde72619f1364a3e0423cc8285a83df0d0",
+      "depth": 23848
+    },
+    {
+      "drv": "/nix/store/bc7wpihzzac4m47632q63kmcyh7p9c6g-glibc-2.32-24.drv",
+      "date": "2021-01-18 08:41:58 +0100",
+      "rev": "426a0a6c9deed61def77dabe1c068950aaa35c23",
+      "depth": 25079
+    },
+    {
+      "drv": "/nix/store/86bll50227zkpmq400qcdn559iyaqiid-glibc-2.32-10.drv",
+      "date": "2021-01-10 22:22:28 -0800",
+      "rev": "5ca3562611081e11a56b26011add124dc639fa06",
+      "depth": 25689
+    },
+    {
+      "drv": "/nix/store/mc14af8chr9www3nhfiai9lpdbq38yg3-glibc-2.32-10.drv",
+      "date": "2021-01-03 09:51:11 +0100",
+      "rev": "0960eff85cb2ad17d2864499b28495b7f6f353da",
+      "depth": 26300
+    },
+    {
+      "drv": "/nix/store/9vvikng0k4bvdazmp7ysv0qbc4g76sd3-glibc-2.32.drv",
+      "date": "2020-12-11 15:51:16 +0100",
+      "rev": "b9c76212fd8ea9e74ec9d8c288e16a2953eb25a6",
+      "depth": 27562
+    },
+    {
+      "drv": "/nix/store/pafqbdmwf68ick8rkl8zp0ba8b2wgjc2-glibc-2.32.drv",
+      "date": "2020-12-06 11:48:35 +0100",
+      "rev": "46f7fbd5fcaefedcb531da14f30371246b4bdef2",
+      "depth": 28009
+    },
+    {
+      "drv": "/nix/store/87qkjx3vgl7pi6s15ix1s6bm0yp2myil-glibc-2.32.drv",
+      "date": "2020-11-30 18:03:08 +0100",
+      "rev": "d554addf6c5f7024b44fc214df03af25dbcf3bfc",
+      "depth": 28523
+    },
+    {
+      "drv": "/nix/store/1g6imwxlffz4jwmzqb5zagmm07jw22g6-glibc-2.32.drv",
+      "date": "2020-11-21 03:49:11 +0100",
+      "rev": "65c4e2500f25076a2db330b8953410faab817420",
+      "depth": 29632
+    },
+    {
+      "drv": "/nix/store/azgp8jpryjqqc0a9672jxwy75rccd1p1-glibc-2.32.drv",
+      "date": "2020-11-16 06:05:13 -0800",
+      "rev": "e2bde6c14fcd773faf1c3e0401bcf70c3e8b76f9",
+      "depth": 30000
+    },
+    {
+      "drv": "/nix/store/bg8mimdpfkgi63n0ghbb3yby9z6q0f6r-glibc-2.32.drv",
+      "date": "2020-11-10 04:15:11 -0500",
+      "rev": "3fcfdb9bcc576c3bf8bd8390dcebe4710a086ec2",
+      "depth": 30500
+    },
+    {
+      "drv": "/nix/store/ninbvcca2gj0naas0bw528w9404x2613-glibc-2.32.drv",
+      "date": "2020-11-04 17:40:48 +0800",
+      "rev": "d4905b1370d2f72da5d7543a4d9f12766c8e18e7",
+      "depth": 30934
+    }
+  ],
+  "2.31": [
+    {
+      "drv": "/nix/store/wgd1r2zg1la6x49rxmjmv7qj1d2h4czf-glibc-2.31.drv",
+      "date": "2020-10-14 14:45:41 -0300",
+      "rev": "6bae92a3eea8c56999d9c76417809a81e0fedfa6",
+      "depth": 32543
+    },
+    {
+      "drv": "/nix/store/djzqwadfbv770dx6wfbw4by7aqn4mwvr-glibc-2.31.drv",
+      "date": "2020-09-17 19:00:53 -0500",
+      "rev": "72b9660dc18ba347f7cd41a9504fc181a6d87dc3",
+      "depth": 34125
+    },
+    {
+      "drv": "/nix/store/83hcf5lca5fh1svb1p6skqaiyhnr3rmf-glibc-2.31.drv",
+      "date": "2020-09-07 08:19:12 -0500",
+      "rev": "5aea56aa45ecf43d1a8452575f409809e2628a92",
+      "depth": 34761
+    },
+    {
+      "drv": "/nix/store/zafymwhmasji5b0sbm4gssm133rk42ms-glibc-2.31.drv",
+      "date": "2020-08-24 11:43:13 +0200",
+      "rev": "bc00ecedfa709f4fa91d445dd76ecd792cb2c728",
+      "depth": 35755
+    },
+    {
+      "drv": "/nix/store/8bpwkkf4awzr571r9pw4gsg0saqk86p5-glibc-2.31.drv",
+      "date": "2020-08-11 09:55:18 +0200",
+      "rev": "eac5ef8aa9c0ddd948b20e83d9d7b37cd0132a81",
+      "depth": 36789
+    },
+    {
+      "drv": "/nix/store/7kzxhmx9dan10s873wv3f1ryc8mj89m0-glibc-2.31.drv",
+      "date": "2020-08-04 21:35:31 +0200",
+      "rev": "6a617de2c41eb15dee7c08fccffc0bee9c1ae125",
+      "depth": 37198
+    },
+    {
+      "drv": "/nix/store/zhbpq4c6bkgya83hxyf27ky0mz1pl15d-glibc-2.31.drv",
+      "date": "2020-07-25 13:36:41 +0200",
+      "rev": "fdbae69e8ce4cf3bfe2c39713586cbea270a608c",
+      "depth": 37806
+    }
+  ],
+  "2.30": [
+    {
+      "drv": "/nix/store/q71zwfbi2flgy2xgjvv4wzjr9ilkwhnz-glibc-2.30.drv",
+      "date": "2020-07-12 22:18:42 -0500",
+      "rev": "5e6825612c9114c12eb9a99c0b42a5aba6289908",
+      "depth": 38374
+    },
+    {
+      "drv": "/nix/store/6a2hqj6a25cxwdi7lm8wm95ad6kc8y6v-glibc-2.30.drv",
+      "date": "2020-06-25 20:27:44 +0200",
+      "rev": "7a3be9661438e1e59592fd3fbc7198b88842d1cd",
+      "depth": 39546
+    },
+    {
+      "drv": "/nix/store/nibl3lgv5hrb64vcid7rf6kjzy4kidzq-glibc-2.30.drv",
+      "date": "2020-06-14 18:50:14 -0700",
+      "rev": "9d0c3ffe6783d59b427d018e8341e0084737fde9",
+      "depth": 40209
+    },
+    {
+      "drv": "/nix/store/lnnz1sljc2l6kschszr73y43fvhhcyyd-glibc-2.30.drv",
+      "date": "2020-06-10 16:00:56 +0200",
+      "rev": "ed43d951af1030d01e22fe0aaaed568af4e7e8e9",
+      "depth": 40458
+    },
+    {
+      "drv": "/nix/store/cv19fy4js7sp56wwkqdpgbfdwsyg2qcf-glibc-2.30.drv",
+      "date": "2020-05-29 16:14:06 +0000",
+      "rev": "19aac2413ae2810a47850f165a592cbe0d06f744",
+      "depth": 41058
+    },
+    {
+      "drv": "/nix/store/lc93nr5yhb9lzf1g4gsk2slmxayf6wsz-glibc-2.30.drv",
+      "date": "2020-05-11 21:43:28 +0200",
+      "rev": "33a756f431c2bae404d1ebbe2bf457405d813566",
+      "depth": 42224
+    },
+    {
+      "drv": "/nix/store/53pmbg4plps4nh52mx8sm0qnj8yys3ik-glibc-2.30.drv",
+      "date": "2020-04-22 23:15:52 -0400",
+      "rev": "994e4b8d2dce61f7370fcdbf2e669bb3dee28db5",
+      "depth": 43622
+    },
+    {
+      "drv": "/nix/store/y0mhi0l541hri5rmbndbf9x9c70fx972-glibc-2.30.drv",
+      "date": "2020-04-18 23:08:58 +0200",
+      "rev": "f63bc540cbd559736f1671e4ee10e4560b3d5d2a",
+      "depth": 43849
+    },
+    {
+      "drv": "/nix/store/dq6qjpfgv38x745gp7ispfq8h9kb9kj0-glibc-2.30.drv",
+      "date": "2020-04-05 13:04:32 +0200",
+      "rev": "df77ecc99d0ee7555bc6353e6eef592409d5d855",
+      "depth": 44763
+    },
+    {
+      "drv": "/nix/store/dx8byrd82233zrn39w3lhyw3dkzqyk77-glibc-2.30.drv",
+      "date": "2020-03-14 06:02:25 +0000",
+      "rev": "39dcb59fbf6fef4e49de67b95308904b094df32d",
+      "depth": 46299
+    },
+    {
+      "drv": "/nix/store/4z24vri2p1p9jy0ip49ln41c4cqa7dcw-glibc-2.30.drv",
+      "date": "2020-03-07 21:23:09 -0800",
+      "rev": "6b6f9d769a5086df38a06b680104d0c5fd1a8e0e",
+      "depth": 46727
+    },
+    {
+      "drv": "/nix/store/isafdxbpi2ihx1ga57myqblk1qd5kgbw-glibc-2.30.drv",
+      "date": "2020-03-01 12:18:09 +0000",
+      "rev": "1b92a08a71c51733a19612c3fc84390700efc77f",
+      "depth": 47168
+    },
+    {
+      "drv": "/nix/store/ws33nv4scnkq5jyvf4sv351qkk6ra80y-glibc-2.30.drv",
+      "date": "2020-02-19 08:51:29 +0100",
+      "rev": "7b9d9fe076a0a231043cf9dcc4b1308aad55ea1a",
+      "depth": 47875
+    },
+    {
+      "drv": "/nix/store/ag156qxayz4jmhkhdh91xzca0dgi6m91-glibc-2.30.drv",
+      "date": "2020-02-12 23:08:28 +1300",
+      "rev": "8a253006e6cd981fa4ffb2ce649193f028d03686",
+      "depth": 48412
+    },
+    {
+      "drv": "/nix/store/cqhsz2wchl9wcz11n38x82dkfxfra0r1-glibc-2.30.drv",
+      "date": "2020-02-10 17:44:50 +0100",
+      "rev": "5301420990bbf733a85ee2255afc18321ccb660e",
+      "depth": 48564
+    }
+  ],
+  "2.27": [
+    {
+      "drv": "/nix/store/xxr8bk36v938rv1yw5az42p2p1bvj4lv-glibc-2.27.drv",
+      "date": "2020-02-09 10:28:14 -0500",
+      "rev": "fa7445532900f2555435076c1e7dce0684daa01a",
+      "depth": 48703
+    },
+    {
+      "drv": "/nix/store/vjqp9yxnbk633csngis11iygcmk2nxpj-glibc-2.27.drv",
+      "date": "2020-01-15 09:23:00 +0100",
+      "rev": "7119d076248b6e329007a20657972625501c6e09",
+      "depth": 49013
+    },
+    {
+      "drv": "/nix/store/ai2ingp18xyv2s1wc5acgb9nay4b1259-glibc-2.27.drv",
+      "date": "2020-01-03 02:22:43 -0800",
+      "rev": "6e02629a35ae64bbf56d06eb0ea38d9de1ed6e71",
+      "depth": 49033
+    },
+    {
+      "drv": "/nix/store/apm94nhlyb8586mmf0r1nn3x3ggl2k20-glibc-2.27.drv",
+      "date": "2019-12-30 16:25:32 +0100",
+      "rev": "548c6708a62da8064abcdf0968f2f32c2cfbef0e",
+      "depth": 49057
+    },
+    {
+      "drv": "/nix/store/780lfaz9xk2ipyys6fdgk9w9cpngn7zy-glibc-2.27.drv",
+      "date": "2019-12-10 18:58:02 +0100",
+      "rev": "2ff8cef0a4c969b9c377db4e0fe6eb8f5404e0b4",
+      "depth": 49080
+    },
+    {
+      "drv": "/nix/store/3v2v8gcgyrz0n1rkrm7qpr8x855fdc84-glibc-2.27.drv",
+      "date": "2019-12-01 01:41:12 +0100",
+      "rev": "75c88b57f90bd4320502c46dddcdbff97dc82fe9",
+      "depth": 49088
+    },
+    {
+      "drv": "/nix/store/zh35i8j5k3qzr4zmrbpq6x644zyg0s73-glibc-2.27.drv",
+      "date": "2019-11-20 09:42:27 +0100",
+      "rev": "648152fdbbdbb8a51335b94647ea9f959f42064d",
+      "depth": 49835
+    },
+    {
+      "drv": "/nix/store/092562zkvg3xgffrr0izbk4gyb5y16hm-glibc-2.27.drv",
+      "date": "2019-11-12 14:24:32 +0100",
+      "rev": "a93fd10968034710099d2344e9a620411bc7b8db",
+      "depth": 50303
+    },
+    {
+      "drv": "/nix/store/49xrnwbkk0qbbjy7pwsq8qdq2kqmsa0x-glibc-2.27.drv",
+      "date": "2019-10-22 07:04:45 +0200",
+      "rev": "3ca78c1a12a89c5e59fd39589a1092625a2e8e5a",
+      "depth": 51647
+    },
+    {
+      "drv": "/nix/store/ia672mm6cwzhlcf07cwh1m3x3xk6qhyv-glibc-2.27.drv",
+      "date": "2019-10-13 16:09:20 +0200",
+      "rev": "84c09b109e0bf185c68d90770f275930d02fac24",
+      "depth": 52121
+    },
+    {
+      "drv": "/nix/store/768hwsnllp6s6mskbyicwrl13dyay6d7-glibc-2.27.drv",
+      "date": "2019-09-06 22:36:38 +0200",
+      "rev": "cfe51be04f8b7c36fe9f71ca5835bd683ede087f",
+      "depth": 54117
+    },
+    {
+      "drv": "/nix/store/573aczphjr5bqhfa4dlhhwldc72618mr-glibc-2.27.drv",
+      "date": "2019-08-31 12:04:59 -0400",
+      "rev": "58163e633bab06d890d08adc38d8a923fca8f9c7",
+      "depth": 54495
+    },
+    {
+      "drv": "/nix/store/jswx2b2qrx6kb2mlzwjk5pklnisi3gc1-glibc-2.27.drv",
+      "date": "2019-07-16 19:19:56 +0200",
+      "rev": "713a45ecf79a4b4c632819f1c898d3e66c77bdd2",
+      "depth": 57008
+    },
+    {
+      "drv": "/nix/store/cqxzyqfgs146w6ixf5dfvn7jh1w57k57-glibc-2.27.drv",
+      "date": "2019-07-10 05:26:42 +0000",
+      "rev": "d2c3c1f2bb169b15d649177865cb7cd9fc60459b",
+      "depth": 57290
+    },
+    {
+      "drv": "/nix/store/6ci1n7ispmlgqmbya2apr4g0hpc5h2w0-glibc-2.27.drv",
+      "date": "2019-06-26 11:29:41 +0100",
+      "rev": "8df753c5983cdd4ca9b454570c7987feba8ebb2a",
+      "depth": 57776
+    },
+    {
+      "drv": "/nix/store/hws3w1la85nikza29mhyv7kdk4wkzy8c-glibc-2.27.drv",
+      "date": "2019-06-15 10:31:10 +0200",
+      "rev": "96d79aff400104c0c4b6b391cf2fd521097beb0e",
+      "depth": 58294
+    },
+    {
+      "drv": "/nix/store/03p64llljn0yrz14l7v6gh23v0nyfzns-glibc-2.27.drv",
+      "date": "2019-06-06 23:43:42 -0500",
+      "rev": "276dc23b614ce30cf628cbbf1f222efdeafb8cb9",
+      "depth": 58635
+    },
+    {
+      "drv": "/nix/store/614rffnjmab9f6k8hkna7x6nj2myg2zr-glibc-2.27.drv",
+      "date": "2019-05-17 00:46:35 -0400",
+      "rev": "79e492e7fdb652fc500c08b73c6091d40e013483",
+      "depth": 59648
+    },
+    {
+      "drv": "/nix/store/n5r5ylhgqk83h97r1p81fkdrzq4h4gcn-glibc-2.27.drv",
+      "date": "2019-05-07 18:14:43 +0200",
+      "rev": "6ae8aed1c2ec25a523c809bb5b0c3e3e89d0bb5e",
+      "depth": 60120
+    },
+    {
+      "drv": "/nix/store/j9q614bgqlhbmrzqpq8rhlyam3ylp4c8-glibc-2.27.drv",
+      "date": "2019-04-30 15:49:01 +0200",
+      "rev": "d6b866e52bd5bb9bff75e0592b37a46f0f649ef7",
+      "depth": 60606
+    },
+    {
+      "drv": "/nix/store/5rg4xhvwl0b18aambvsc6yycbysnnjcj-glibc-2.27.drv",
+      "date": "2019-02-28 23:41:51 -0600",
+      "rev": "456ff62ff820bbb2debd4568a775d88e61fd8bd1",
+      "depth": 63639
+    },
+    {
+      "drv": "/nix/store/578hc2al9gvx5sharvzwlc8n71kpdpmc-glibc-2.27.drv",
+      "date": "2019-02-20 09:38:21 +0100",
+      "rev": "28d983fe25bcf853dfd38663f333d4c522f613cc",
+      "depth": 64064
+    },
+    {
+      "drv": "/nix/store/5r7rjpbl6fnv1cl1wjr9bd0968fnbys0-glibc-2.27.drv",
+      "date": "2019-02-10 13:31:34 +0100",
+      "rev": "b8d7c0cab5e5e5ea8002ce4ad38f336df12841fe",
+      "depth": 64473
+    },
+    {
+      "drv": "/nix/store/zncvwrh4inakzikq4x117plwn161i1v5-glibc-2.27.drv",
+      "date": "2019-01-13 00:01:05 +0100",
+      "rev": "6ca8443c3be92457ecd4f81532687f99281cbcae",
+      "depth": 65818
+    },
+    {
+      "drv": "/nix/store/qpcflmnm8pm254iy42gmvmrnf9dqliiv-glibc-2.27.drv",
+      "date": "2019-01-06 02:46:58 +0000",
+      "rev": "7d864c6bd6391baa516118051ec5fb7e9836280e",
+      "depth": 66101
+    },
+    {
+      "drv": "/nix/store/h51bhfa7h3xf7bmzma5i62i7kbk8bdzj-glibc-2.27.drv",
+      "date": "2018-12-19 08:08:06 +0100",
+      "rev": "b9307eddd67e0e3f087dec608ccc84fec72deda5",
+      "depth": 66904
+    },
+    {
+      "drv": "/nix/store/dcfrcizskqfs3kzqapf6w1gx54sjq149-glibc-2.27.drv",
+      "date": "2018-12-18 22:14:47 -0500",
+      "rev": "e3a931c41eca8ccb988ceba2395b973568d991fc",
+      "depth": 66906
+    },
+    {
+      "drv": "/nix/store/5r772sn0zxk4b53gyh7l91dyfgm18fy9-glibc-2.27.drv",
+      "date": "2018-12-08 16:35:41 +0100",
+      "rev": "edc3559c1ae1cd1edeff11af52ae768359b38ba6",
+      "depth": 67529
+    },
+    {
+      "drv": "/nix/store/cw3qv0l6hdpmh7akrcc77xad60lqg9ig-glibc-2.27.drv",
+      "date": "2018-11-30 17:37:50 +0100",
+      "rev": "74e283403c9f10504c1d2ab8c4970289c81a482b",
+      "depth": 67839
+    },
+    {
+      "drv": "/nix/store/7r4ng45baamw17rsdg7mk5lmqc1n6gpn-glibc-2.27.drv",
+      "date": "2018-11-25 16:44:34 -0500",
+      "rev": "b49ed49c68e5950c9f77e000ddeb68dd665e5563",
+      "depth": 68026
+    },
+    {
+      "drv": "/nix/store/m8hbshlcj8r0mhbhwwq5mksh938dm6rh-glibc-2.27.drv",
+      "date": "2018-11-23 11:46:15 +0000",
+      "rev": "af9e846bbaa4c17b71e204f0a3b9afb8175bfd33",
+      "depth": 68126
+    },
+    {
+      "drv": "/nix/store/mmb1hbfdyhk7p43s1z1i4vjd74sxgy4q-glibc-2.27.drv",
+      "date": "2018-11-20 11:45:38 +0100",
+      "rev": "119e4e30c8285c456a07a747bb8fce5c1c1a4b3d",
+      "depth": 68297
+    },
+    {
+      "drv": "/nix/store/5j1mmhzjzpf86j7f7kvhpqnp4n2j3n4d-glibc-2.27.drv",
+      "date": "2018-10-13 09:38:51 +0200",
+      "rev": "20c4986c4dd9b014991c619498ae6ef09aa5d0aa",
+      "depth": 70434
+    },
+    {
+      "drv": "/nix/store/s4kp928km7py44x21vacyqxigxwkmg4l-glibc-2.27.drv",
+      "date": "2018-10-02 18:01:42 +0200",
+      "rev": "fbc1fb78e37cc29eadee4ad8687e8777eba3cf0e",
+      "depth": 70949
+    },
+    {
+      "drv": "/nix/store/qqy30lxs4k1ki68yrbfnd6yx7jhp3hpw-glibc-2.27.drv",
+      "date": "2018-08-24 09:09:54 +0200",
+      "rev": "8987547106fcc1868cbc05fb295e0631d8edf138",
+      "depth": 72819
+    },
+    {
+      "drv": "/nix/store/9bxzg9r2wl549hyrx8ib9vc56n24m7rn-glibc-2.27.drv",
+      "date": "2018-08-21 14:59:11 +0200",
+      "rev": "690a8017de9f9e9bed8609c1798d6d4309d9794a",
+      "depth": 72950
+    },
+    {
+      "drv": "/nix/store/jchzn8slcv4i3vz4s3gvygai62j1vb8j-glibc-2.27.drv",
+      "date": "2018-08-17 19:27:19 +0200",
+      "rev": "aa5a93e21d77e2c2464b39a5f4dabbfebfb225b4",
+      "depth": 73114
+    },
+    {
+      "drv": "/nix/store/xhj998ckh97bilww9ay89c91sg9xginl-glibc-2.27.drv",
+      "date": "2018-08-09 08:59:46 +0200",
+      "rev": "12c05697b5576c33fb3ccd71917e791ee8811ef1",
+      "depth": 73505
+    },
+    {
+      "drv": "/nix/store/ab3g3w00qjhdnqqcilb2yrh05cjrbzc5-glibc-2.27.drv",
+      "date": "2018-07-29 09:12:41 +0200",
+      "rev": "2226b7de076f94d0b7c718d7c87f5d4eb9e8bbad",
+      "depth": 74102
+    },
+    {
+      "drv": "/nix/store/gqzgx3m3jm4gwg6gaplwzwaalh5z3rm4-glibc-2.27.drv",
+      "date": "2018-07-24 15:52:00 +0200",
+      "rev": "373541234ac93722f4fd684bfa48f42686ae4e3a",
+      "depth": 74240
+    },
+    {
+      "drv": "/nix/store/sfkvgaawhr7lwnhbflzdilg5xpqwilkn-glibc-2.27.drv",
+      "date": "2018-07-22 09:18:06 +0200",
+      "rev": "b21994d4ac9c2c8d372bf011668401ee31972c0b",
+      "depth": 74332
+    },
+    {
+      "drv": "/nix/store/2n4rza9g59cdajvpyanvw0fymis8wkg0-glibc-2.27.drv",
+      "date": "2018-07-17 09:05:28 +0200",
+      "rev": "bac995cd9f07f526d66b571331cd17b8eb7c0f62",
+      "depth": 74582
+    }
+  ]
+}
