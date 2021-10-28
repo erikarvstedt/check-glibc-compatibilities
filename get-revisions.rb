@@ -17,8 +17,8 @@ def find_versions(versions_to_find: 10, start_depth: 0, log: Log.new)
   versions_found = 0
 
   while versions_found < versions_to_find
-    hi, _ = find_next_drv(prev_change)
-    change = find_drv_change(prev_change, hi)
+    upper_bound = find_next_drv(prev_change)
+    change = find_drv_change(prev_change, upper_bound)
     @log.add_change(change)
     if change.version != prev_change.version
       versions_found += 1
@@ -38,7 +38,7 @@ def find_next_drv(change)
     break if drv != change.drv
     step *= 2
   end
-  [depth, drv, version]
+  depth
 end
 
 # binary search for next change within arg `change` and
@@ -130,7 +130,9 @@ class Log
   end
 end
 
+puts
 puts "Press ENTER to cleanly exit this program"
+puts
 Thread.new do
   gets
   @abort = true
