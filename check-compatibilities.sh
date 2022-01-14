@@ -68,25 +68,24 @@ check() {(
 
 # '2.33  0' is the latest glibc drv with version 2.33
 # '2.33 -1' is the earliest drv
-#
 # Results:
-# cd = core dump
-# nr = error, no result
+# c = core dump
+# - = error, no result
 check 2.33  0   2.33  0 # ok
 check 2.33  0   2.33 -1 # ok
 check 2.33 -1   2.33  0 # ok
-check 2.33  0   2.32  0 # nr
-check 2.33  0   2.31  0 # nr
-check 2.33  0   2.30  0 # cd
-check 2.32  0   2.31  0 # nr
+check 2.33  0   2.32  0 # -
+check 2.33  0   2.31  0 # -
+check 2.33  0   2.30  0 # c
+check 2.32  0   2.31  0 # -
 check 2.32  0   2.32 -1 # ok
 check 2.32 -1   2.32  0 # ok
-check 2.32  0   2.30  0 # cd
+check 2.32  0   2.30  0 # c
 check 2.30  0   2.30 -1 # ok
 check 2.30 -1   2.30  0 # ok
-check 2.30  0   2.27  0 # cd
-check 2.31  0   2.30  0 # cd
-check 2.31  0   2.27  0 # cd
+check 2.30  0   2.27  0 # c
+check 2.31  0   2.30  0 # c
+check 2.31  0   2.27  0 # c
 check 2.27  0   2.27 -1 # ok
 check 2.27 -1   2.27  0 # ok
 
