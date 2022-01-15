@@ -3,11 +3,9 @@
 require 'open3'
 require 'json'
 
-NixpkgsPath = File.expand_path("/path/to/nixpkgs")
+NixpkgsPath = File.expand_path(ENV['NIXPKGS_PATH'] || (raise 'Please set NIXPKGS_PATH'))
 # master as of 2021-10-25
 StartRev = "8e18c70837aa01ade3718cd0fd35b649b3a2cf52"
-
-raise 'Please set NixpkgsPath' unless Dir.exist? NixpkgsPath
 
 Change = Struct.new(:version, :drv, :date, :rev, :depth, keyword_init: true)
 

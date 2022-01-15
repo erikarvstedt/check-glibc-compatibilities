@@ -2,9 +2,9 @@
 set -euo pipefail
 
 versionsFile=changes-8e18c70.json
-nixpkgsPath=/path/to/nixpkgs
+nixpkgsPath=${NIXPKGS_PATH:-}
 if [[ ! -e $nixpkgsPath ]]; then
-    echo "Please set nixpkgsPath"
+    echo "Please set NIXPKGS_PATH"
     exit 1
 fi
 if ! git -C "$nixpkgsPath" diff --quiet; then
